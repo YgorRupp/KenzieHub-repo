@@ -1,1 +1,2 @@
-# react-entrega-kenzie-hub
+Projeto com objetivo de criar uma plataforma onde é possível listar cursos e tecnologias já estudadas , onde é possível criar um usuário e fazer login com esse usuário e criar novas tecnologias para sua lista onde é possível também editar as informações dessa tecnologia criada e também deletar tecnologias e tudo isso utilizando de API para login , cadastro , criação de novas techs , edição e deleção dessas techs
+Tecnologias utilizadas: React, toastify ,react-router-dom, styled-components, yup, react-hook-form
